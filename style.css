@@ -29,6 +29,8 @@ body {
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
+    min-width: 300px;
+    max-width: 1000px;
 }
 
 input, select, textarea, button {
